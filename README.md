@@ -4,7 +4,7 @@ In dit vak gaan we een web app maken zonder frameworks of onnodige libraries, du
 
 ## Leerdoelen
 - _Je kan structuur aanbrengen in je code door patterns toe te passen. Je kan de keuze voor de gekozen patterns beargumenteren_
-- _Je kan data ophalen, manipuleren en dynamisch omzetten naar html elementen mbv templating._
+- _Je kan data ophalen, manipuleren en dynamisch omzetten naar html-elementen mbv templating._
 - _Je begrijpt hoe je middels asynchrone code met een externe API kan werken._
 - _Je begrijpt hoe je states in je applicaties kan managen en stelt de gebruiker op de hoogte van states waar nodig._
 
