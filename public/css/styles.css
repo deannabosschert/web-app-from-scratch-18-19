@@ -1,5 +1,10 @@
+*{
+  background-color: #ADD8E6;
+}
+
 #root {
-  max-height: 100vw;
- max-width: 100vw;
- margin: 0 auto;
+}
+
+#root img {
+max-width: 40rem;
 }
