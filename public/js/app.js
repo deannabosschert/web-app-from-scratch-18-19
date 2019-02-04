@@ -7,12 +7,12 @@ request.onload = function () {
 
   var data = JSON.parse(this.response);
 
-  localStorage.setItem('colors', JSON.stringify(data));
+  localStorage.setItem('images', JSON.stringify(data));
 
 
   if (request.status >= 200 && request.status < 400) {
     data.forEach(image => {
-      console.log(image.color);
+      console.log(image.urls.regular);
     });
   } else {
     console.log('error');
