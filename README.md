@@ -1,6 +1,9 @@
 # Web App From Scratch @cmda-minor-web 18-19
 https://deannabosschert.github.io/web-app-from-scratch-18-19/
 
+
+## Table of contents
+
 ## To Do
 - [x] Add readme
 - [ ] Generate list of images in 'winter' category instead of random images
@@ -13,13 +16,12 @@ Every time you re-visit this page, another ten random images will be shown.
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_AAE245BD623FC710D2AE25D34375162B3944649C53ABDE0F3AE65FB83E1EE8EC_1549614007587_Screenshot+2019-02-08+at+09.19.49.png)
 
-
-### Table of contents
-This project contains (so far..):
- HTML | CSS | JS |
+### Actor diagram
 
 
-## Tech
+### Interaction diagram
+
+
 ###  Install
 `git clone https://github.com/deannabosschert/web-app-from-scratch-18-19.git`  
 `cd /web-app-from-scratch-18-19.git`  
@@ -31,9 +33,9 @@ https://unsplash.com/documentation
 
 
 ## License
-[MIT][ ] © [Deanna Bosschert][author]
-[mit]: /license
-[author]: deanna.nl
+MIT
+
+
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
