@@ -5,7 +5,7 @@ https://deannabosschert.github.io/web-app-from-scratch-18-19/
 - [x] Add readme
 - [ ] Generate list of images in 'winter' category instead of random images
 - [ ] Add CSS
-- [ ]
+- [ ] ...
 
 ## Description
 This is a site that generates ten random images from Unsplash.com, using Unsplash' official API.
