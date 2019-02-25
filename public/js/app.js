@@ -1,13 +1,13 @@
-var request = new XMLHttpRequest()
-var apiLink = 'https://api.unsplash.com/photos/?client_id=52ed480c90eaf026bd329345fd21431bdec643724f11f8aa54b49a48453edf8e'
-var element = document.getElementById("root")
+const request = new XMLHttpRequest()
+const apiLink = 'https://api.unsplash.com/photos/?client_id=52ed480c90eaf026bd329345fd21431bdec643724f11f8aa54b49a48453edf8e'
+const element = document.getElementById("root")
 
 
 request.open('GET', apiLink , true)
 
 request.onload = function () {
 
-  var data = JSON.parse(this.response)
+  const data = JSON.parse(this.response)
 
   localStorage.setItem('images', JSON.stringify(data))
 
@@ -22,3 +22,7 @@ request.onload = function () {
 }
 
 request.send()
+
+
+zometeen eerst doen:
+- modules zoals opgeschreven hierin zetten (structuur)
