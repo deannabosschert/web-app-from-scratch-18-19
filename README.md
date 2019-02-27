@@ -5,10 +5,14 @@ https://deannabosschert.github.io/web-app-from-scratch-18-19/
 ## Table of contents
 
 ## To Do
-- [x] Add readme
-- [ ] Generate list of images in 'winter' category instead of random images
-- [ ] Add CSS
-- [ ] ...
+[x] Add readme
+[x] Set up new structure and put in app.js
+[x] Actor diagram
+[ ] modules zoals opgeschreven in app.js zetten (structuur)
+[ ] losse functies die hierin gebruikt zullen worden, toevoegen
+[ ] daadwerkelijk de functies uittypen
+[ ] code verdelen in losse module-bestanden
+
 
 ## Description
 This is a site that generates ten random images from Unsplash.com, using Unsplash' official API.

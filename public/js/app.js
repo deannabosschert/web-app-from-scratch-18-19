@@ -1,3 +1,5 @@
+'use strict'
+
 const request = new XMLHttpRequest()
 const apiLink = 'https://api.unsplash.com/photos/?client_id=52ed480c90eaf026bd329345fd21431bdec643724f11f8aa54b49a48453edf8e'
 const element = document.getElementById("root")
@@ -23,12 +25,18 @@ request.onload = function () {
 request.send()
 
 
-zometeen eerst doen:
-- modules zoals opgeschreven hierin zetten (structuur)
+
+
+// // modules
+// import Router from './modules/router.js'
+// import Api from './modules/api.js'
+// import Detail from '.modules/detail.js'
+// import Render from '.modules/render.js'
+// (alvast voor wanneer ik alles in aparte bestanden doe op het einde)
 
 
 const app = {
-  app.init
+  app.init();
 }
 
 const router = {
@@ -74,3 +82,16 @@ const render = {
  else, render.overview (de gewenste data)
 
 }
+
+(function(){
+  const app = {
+
+  },
+
+  const router = {
+
+  },
+
+  
+
+})()
