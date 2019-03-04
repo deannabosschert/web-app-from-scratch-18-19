@@ -1,10 +1,11 @@
 # Web App From Scratch @cmda-minor-web 18-19
-https://deannabosschert.github.io/web-app-from-scratch-18-19/
 
+https://deannabosschert.github.io/web-app-from-scratch-18-19/
 
 ## Table of contents
 
 ## To Do
+
 [x] Add readme
 [x] Set up new structure and put in app.js
 [x] Actor diagram
@@ -13,34 +14,31 @@ https://deannabosschert.github.io/web-app-from-scratch-18-19/
 [ ] daadwerkelijk de functies uittypen
 [ ] code verdelen in losse module-bestanden
 
-
 ## Description
+
 This is a site that generates ten random images from Unsplash.com, using Unsplash' official API.
 Every time you re-visit this page, another ten random images will be shown.
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_AAE245BD623FC710D2AE25D34375162B3944649C53ABDE0F3AE65FB83E1EE8EC_1549614007587_Screenshot+2019-02-08+at+09.19.49.png)
 
 ### Actor diagram
+
 ![Actor Diagram](/public/actordiagram.png)
 
 ### Interaction diagram
 
+### Install
 
-###  Install
 `git clone https://github.com/deannabosschert/web-app-from-scratch-18-19.git`  
-`cd /web-app-from-scratch-18-19.git`  
+`cd /web-app-from-scratch-18-19.git`
 
 ### API Source
+
 https://unsplash.com/documentation
 
-
-
-
 ## License
+
 MIT
-
-
-
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
